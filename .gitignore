@@ -36,7 +36,7 @@ hs_err_pid*
 /.idea/
 # builds
 /build/
-/
+/task/
 /.gradle/
 *.yaml
 *.html
