@@ -38,8 +38,8 @@ hs_err_pid*
 /Car Sharing/Companies/
 /Car Sharing/Initialization/
 /Car Sharing/Relationship/
-/Car Sharing/build/
-/Car Sharing/out/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
 /Car Sharing/Welcome, customer_/
 /.gradle/
 *.yaml
