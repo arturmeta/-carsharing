@@ -35,8 +35,12 @@ hs_err_pid*
 # compile files
 /.idea/
 # builds
-/build/
-/task/
+/Car Sharing/Companies/
+/Car Sharing/Initialization/
+/Car Sharing/Relationship/
+/Car Sharing/build/
+/Car Sharing/out/
+/Car Sharing/Welcome, customer_/
 /.gradle/
 *.yaml
 *.html
